@@ -3,3 +3,7 @@
     font-family: Helvetica, "Time New Roman", sans-serif;
     font-size: 28px;
 }
+.black-white {
+    background-color: black;
+    color: white;
+}
