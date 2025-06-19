@@ -46,6 +46,12 @@ li {
   margin-bottom: 16px;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 24;
+}
+
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
