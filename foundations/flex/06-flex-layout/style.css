@@ -36,3 +36,8 @@ input {
   flex-direction: column;
   gap: 16px;
 }
+
+a {
+  color: #666;
+  text-decoration: none;
+}
